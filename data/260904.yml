@@ -7,7 +7,7 @@ about:
   head: 9f3061a
   archived: false
   latestVersion: v1.2.2
-  collectedAt: 2026-09-04T19:30:54Z
+  collectedAt: 2026-09-04T21:01:13Z
 timeline:
   created: 2017-03-03
   lastCommit: 2026-06-25
@@ -82,6 +82,79 @@ total:
   openIssue: 775
   commit: 241
 ---
+path: /home/runner/.x-repo/github.com/ageitgey/face_recognition
+collectedAt: 2026-09-04T21:01:16Z
+loc:
+  Python:
+    code: 1749
+    comments: 575
+    blanks: 627
+    files: 30
+  ReStructuredText:
+    code: 594
+    comments: 0
+    blanks: 282
+    files: 13
+  Batch:
+    code: 212
+    comments: 1
+    blanks: 29
+    files: 1
+  Makefile:
+    code: 210
+    comments: 6
+    blanks: 49
+    files: 2
+  Dockerfile:
+    code: 182
+    comments: 31
+    blanks: 40
+    files: 5
+  Jupyter:
+    code: 28
+    comments: 11
+    blanks: 9
+    files: 1
+  ForgeConfig:
+    code: 27
+    comments: 0
+    blanks: 4
+    files: 1
+  Ini:
+    code: 22
+    comments: 0
+    blanks: 7
+    files: 1
+  Yaml:
+    code: 11
+    comments: 4
+    blanks: 1
+    files: 1
+  Autoconf:
+    code: 9
+    comments: 0
+    blanks: 4
+    files: 1
+  Toml:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 751
+    blanks: 510
+    files: 5
+  Text:
+    code: 0
+    comments: 21
+    blanks: 0
+    files: 3
+total:
+  code: 3276
+  comments: 1435
+  blanks: 1651
+  files: 65
 ---
 date: "2026-08-24"
 repo:
