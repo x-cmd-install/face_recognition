@@ -5,15 +5,15 @@ about:
   head: 9f3061a
   archived: false
   latestVersion: "v1.2.2"
-  collectedAt: 2026-09-07T04:40:53Z
+  collectedAt: 2026-09-07T19:46:32Z
 timeline:
   created: 2017-03-03
   lastCommit: 2026-06-25
   lastRelease: 2018-04-02
 popularity:
-  star: 56709
+  star: 56714
   watcher: 1541
-  fork: 13695
+  fork: 13694
   release: 2
   contributor: 52
   pullRequest: 258
@@ -81,7 +81,7 @@ total:
   commit: 241
 ---
 path: /home/runner/.x-repo/github.com/ageitgey/face_recognition
-collectedAt: 2026-09-07T04:40:59Z
+collectedAt: 2026-09-07T19:46:37Z
 loc:
   Python:
     code: 1749
@@ -263,7 +263,7 @@ checks:
       - 'Info:   0 out of  14 pipCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:41:00+00:00
+  collectedAt: 2026-09-07T19:46:37+00:00
   platform:
     darwin/arm64:
       name:  null
