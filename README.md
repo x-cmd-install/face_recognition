@@ -21,11 +21,10 @@ x install face_recognition
 
 - **Latest**: `v1.2.2` (2018-04-02)
 - **Last commit**: 2026-06-25
-- **Published**: 2018-04-02T17:18:43Z
 
 ## Popularity
 
-- **Stars**: 56,728 · **Forks**: 13,692 · **Open issues**: 1,379 · **Contributors**: 52
+- **Stars**: 56,731 · **Forks**: 13,693 · **Open issues**: 1,379 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -66,8 +65,8 @@ Lowest-scoring checks:
 Install metadata for face_recognition lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `face_recognition` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/face_recognition.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/face_recognition.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:47:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:22:44Z._

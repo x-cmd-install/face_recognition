@@ -4,7 +4,7 @@
 
 The world's simplest facial recognition api for Python and the command line
 
-![face_recognition](https://repo.x-cmd.io/face_recognition.svg)
+![face_recognition](https://repo.x-cmd.io/face_recognition.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install face_recognition
 
 - **最新版本**: `v1.2.2` (2018-04-02)
 - **最近提交**: 2026-06-25
-- **发布时间**: 2018-04-02T17:18:43Z
 
 ## 流行度
 
-- **Star**: 56,728 · **Fork**: 13,692 · **开放 issue**: 1,379 · **贡献者**: 52
+- **Star**: 56,731 · **Fork**: 13,693 · **开放 issue**: 1,379 · **贡献者**: 52
 
 ## 累计统计
 
@@ -70,4 +69,4 @@ face_recognition 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:22:45Z._
