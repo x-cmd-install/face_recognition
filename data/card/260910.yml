@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.2"
   latestRelease: "v1.2.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:46:54Z
+  collectedAt: 2026-09-10T16:22:35Z
 timeline:
   created: 2017-03-03
   lastCommit: 2026-06-25
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2018-04-02
   lastPrerelease: 
 popularity:
-  star: 56728
+  star: 56731
   watcher: 1541
-  fork: 13692
+  fork: 13693
   release: 2
   contributor: 52
   pullRequest: 258
@@ -85,7 +85,7 @@ total:
   commit: 241
 ---
 path: /home/runner/.x-repo/github.com/ageitgey/face_recognition
-collectedAt: 2026-09-10T04:46:59Z
+collectedAt: 2026-09-10T16:22:40Z
 loc:
   Python:
     code: 1749
